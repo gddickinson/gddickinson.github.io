@@ -35,106 +35,106 @@ Interactive ROI and mask editing tool for FLIKA.
 
 ## Games & Simulations
 
-### [LLM-Powered RPG](llm-rpg.md)
+### [LLM-Powered RPG](games/llm-rpg.md)
 D&D-style RPG with AI-controlled NPCs using local Large Language Models.
 
 **Highlights**: Autonomous NPC decision-making • Dynamic dialog and combat • Memory system • Emergent gameplay
 
 **Tech Stack**: Python • Ollama/Llama 3 • Pygame • Multiprocessing
 
-[View Documentation →](llm-rpg.md)
+[View Documentation →](games/llm-rpg.md)
 
 ---
 
-### [HexChess Python](hexchess-python.md)
+### [HexChess Python](games/hexchess-python.md)
 PyQt-based hexagonal chess with custom piece movement rules.
 
 **Highlights**: Hexagonal grid system • Adapted chess pieces • Interactive GUI • Complete rule enforcement
 
 **Tech Stack**: PyQt5 • Python 3.x • Custom graphics
 
-[View Documentation →](hexchess-python.md)
+[View Documentation →](games/hexchess-python.md)
 
 ---
 
-### [HexChess JavaScript](hexchess-js.md)
+### [HexChess JavaScript](games/hexchess-js.md)
 Web-based hexagonal chess with evolutionary AI opponent.
 
 **Highlights**: Browser-based • Evolutionary learning AI • No installation required • **[Play online →](https://gddickinson.github.io/hexChess/)**
 
 **Tech Stack**: JavaScript • HTML5 Canvas • Evolutionary algorithms
 
-[View Documentation →](hexchess-js.md)
+[View Documentation →](games/hexchess-js.md)
 
 ---
 
 ## Creative & Generative Tools
 
-### [Fractal Music Generator](fractal-music.md)
+### [Fractal Music Generator](creative/fractal-music.md)
 Generate unique melodies from Mandelbrot set fractal patterns.
 
 **Highlights**: Infinite melody variations • Fractal-to-music mapping • Multiple musical scales • MIDI/WAV export
 
 **Tech Stack**: NumPy • SciPy • MIDIUtil • Matplotlib
 
-[View Documentation →](fractal-music.md)
+[View Documentation →](creative/fractal-music.md)
 
 ---
 
-### [Story Generator](story-generator.md)
+### [Story Generator](creative/story-generator.md)
 Procedural narrative generation with branching storylines and dynamic characters.
 
 **Highlights**: Branching narratives • Character AI • World simulation • Multiple genres
 
 **Tech Stack**: Python • NLP • Graph algorithms • State machines
 
-[View Documentation →](story-generator.md)
+[View Documentation →](creative/story-generator.md)
 
 ---
 
-### [Landscape Generator](landscape-generator.md)
+### [Landscape Generator](creative/landscape-generator.md)
 Procedural terrain generation with multiple biomes and seasonal variations.
 
 **Highlights**: Multi-octave noise • Multiple biomes • Seasonal variations • 3D visualization • Geographic features
 
 **Tech Stack**: NumPy • Matplotlib • SciPy • OpenCV
 
-[View Documentation →](landscape-generator.md)
+[View Documentation →](creative/landscape-generator.md)
 
 ---
 
-### [Musical Harmony Visualization](musical-harmony.md)
+### [Musical Harmony Visualization](creative/musical-harmony.md)
 Generate, visualize, and synthesize musical harmonies across different styles.
 
 **Highlights**: Multiple musical styles (Jazz, Classical, Impressionist, Modal) • Audio synthesis • Animated visualizations
 
 **Tech Stack**: NumPy • Matplotlib • music21 • MIDIUtil
 
-[View Documentation →](musical-harmony.md)
+[View Documentation →](creative/musical-harmony.md)
 
 ---
 
-### [Color Palette Generator](colour-palette.md)
+### [Color Palette Generator](creative/colour-palette.md)
 Generate harmonious color combinations using color theory principles.
 
 **Highlights**: 6 harmony types • Temperature control • Multiple color formats • Accessibility checking
 
 **Tech Stack**: NumPy • Matplotlib • colormath • Pillow
 
-[View Documentation →](colour-palette.md)
+[View Documentation →](creative/colour-palette.md)
 
 ---
 
 ## Geospatial & Utility Tools
 
-### [GPS Tracker](gps-tracker.md)
+### [GPS Tracker](geospatial/gps-tracker.md)
 Comprehensive GPS data processing, track analysis, and interactive mapping.
 
 **Highlights**: Multiple format support (GPX, KML, CSV) • Elevation analysis • Offline maps • Interactive visualization
 
 **Tech Stack**: gpxpy • folium • geopy • Pandas
 
-[View Documentation →](gps-tracker.md)
+[View Documentation →](geospatial/gps-tracker.md)
 
 ---
 
