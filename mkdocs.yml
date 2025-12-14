@@ -33,6 +33,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.footer
+    - navigation.expand
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -83,7 +84,21 @@ nav:
       - SPT Batch Analysis: python-projects/flika-plugins/spt-batch.md
       - Cell Edge Movement: python-projects/flika-plugins/cell-edge.md
       - Mask Editor: python-projects/flika-plugins/mask-editor.md
-    - Other Projects: python-projects/other-projects.md
+    - Games & Simulations:
+      - Overview: python-projects/games/index.md
+      - LLM-Powered RPG: python-projects/games/llm-rpg.md
+      - HexChess Python: python-projects/games/hexchess-python.md
+      - HexChess JavaScript: python-projects/games/hexchess-js.md
+    - Creative & Generative:
+      - Overview: python-projects/creative/index.md
+      - Fractal Music Generator: python-projects/creative/fractal-music.md
+      - Story Generator: python-projects/creative/story-generator.md
+      - Landscape Generator: python-projects/creative/landscape-generator.md
+      - Musical Harmony Visualization: python-projects/creative/musical-harmony.md
+      - Color Palette Generator: python-projects/creative/colour-palette.md
+    - Geospatial & Utility:
+      - Overview: python-projects/geospatial/index.md
+      - GPS Tracker: python-projects/geospatial/gps-tracker.md
   - Publications: publications.md
   - CV: cv.md
 

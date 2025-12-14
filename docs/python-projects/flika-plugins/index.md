@@ -2,14 +2,14 @@
 
 Plugins extending FLIKA (Fluorescence Image Analysis) for advanced microscopy workflows.
 
-**FLIKA:** [flika-org.github.io](https://flika-org.github.io)  
-**GitHub:** [github.com/gddickinson](https://github.com/gddickinson)
+**FLIKA:** [flika-org.github.io](https://flika-org.github.io)
+**GitHub:** [github.com/gddickinson/flika_plugins](https://github.com/gddickinson/flika_plugins)
 
 ---
 
 ## Available Plugins
 
-### thunderSTORM
+### [thunderSTORM](thunderstorm.md)
 Single Molecule Localization Microscopy analysis.
 
 **Features:**
@@ -18,11 +18,9 @@ Single Molecule Localization Microscopy analysis.
 - Drift correction
 - Batch processing
 
-[Documentation →](thunderstorm.md)
-
 ---
 
-### SPT Batch Analysis  
+### [SPT Batch Analysis](spt-batch.md)
 Automated particle tracking for large datasets.
 
 **Features:**
@@ -31,11 +29,9 @@ Automated particle tracking for large datasets.
 - Interpolation and gap-closing
 - Comprehensive export options
 
-[Documentation →](spt-batch.md)
-
 ---
 
-### Cell Edge Movement
+### [Cell Edge Movement](cell-edge.md)
 Membrane dynamics and protein localization analysis.
 
 **Features:**
@@ -44,11 +40,9 @@ Membrane dynamics and protein localization analysis.
 - Protein colocalization
 - PIEZO1 analysis tools
 
-[Documentation →](cell-edge.md)
-
 ---
 
-### Mask Editor
+### [Mask Editor](mask-editor.md)
 Interactive ROI and mask editing tool.
 
 **Features:**
@@ -56,8 +50,6 @@ Interactive ROI and mask editing tool.
 - Boolean and morphological operations
 - Multiple selection tools
 - Export to multiple formats
-
-[Documentation →](mask-editor.md)
 
 ---
 
@@ -68,10 +60,10 @@ Interactive ROI and mask editing tool.
 pip install flika
 
 # Clone plugins
-git clone https://github.com/gddickinson/flika-plugins
+git clone https://github.com/gddickinson/flika_plugins
 
 # Copy to FLIKA plugins directory
-cp -r flika-plugins/* ~/.flika/plugins/
+cp -r flika_plugins/* ~/.flika/plugins/
 ```
 
 ---
