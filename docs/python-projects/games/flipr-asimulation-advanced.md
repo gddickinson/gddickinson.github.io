@@ -16,7 +16,7 @@ A comprehensive Python application for simulating FLIPR (Fluorometric Imaging Pl
 
 A comprehensive Python application for simulating FLIPR (Fluorometric Imaging Plate Reader) calcium signaling data, with support for various cell types, agonists, Group IDs, and error conditions. This simulator is designed to generate realistic calcium response data for testing analysis pipelines, validating diagnostic assays, and exploring error detection algorithms.
 
-![FLIPR Simulator Screenshot](docs/images/application_screenshot.jpg)
+<!-- Image not available: FLIPR Simulator Screenshot -->
 
 ## Overview
 

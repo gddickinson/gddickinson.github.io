@@ -18,7 +18,7 @@ VisualPyIDE is a powerful, customizable Python script editor designed for develo
 
 VisualPyIDE is a powerful, customizable Python script editor designed for developers who need integrated image analysis capabilities. Built with PyQt6, it combines the flexibility of a modern code editor with specialized tools for image processing, computer vision, and AI-powered analysis—all within a single, cohesive environment.
 
-![VisualPyIDE Screenshot](screenshot.png)
+<!-- Image not available: VisualPyIDE Screenshot -->
 
 ## ✨ Key Features
 

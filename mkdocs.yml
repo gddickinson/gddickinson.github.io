@@ -68,37 +68,15 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
+
   - Research:
-    - Overview: research/index.md
-    - Current Position - Pathak Lab: research/pathak-lab.md
-    - Boise State - DNA Memory: research/boise-state.md
-    - Parker Lab - Calcium Imaging: research/parker-lab.md
-    - Patel Lab - NAADP Signaling: research/patel-lab.md
-    - Sanders Lab - Plant Calcium: research/sanders-lab.md
-    - Sound Science - Conservation: research/sound-science.md
-  - Python Projects:
-    - Overview: python-projects/index.md
-    - FLIKA Plugins:
-      - Overview: python-projects/flika-plugins/index.md
-      - thunderSTORM: python-projects/flika-plugins/thunderstorm.md
-      - SPT Batch Analysis: python-projects/flika-plugins/spt-batch.md
-      - Cell Edge Movement: python-projects/flika-plugins/cell-edge.md
-      - Mask Editor: python-projects/flika-plugins/mask-editor.md
-    - Games & Simulations:
-      - Overview: python-projects/games/index.md
-      - LLM-Powered RPG: python-projects/games/llm-rpg.md
-      - HexChess Python: python-projects/games/hexchess-python.md
-      - HexChess JavaScript: python-projects/games/hexchess-js.md
-    - Creative & Generative:
-      - Overview: python-projects/creative/index.md
-      - Fractal Music Generator: python-projects/creative/fractal-music.md
-      - Story Generator: python-projects/creative/story-generator.md
-      - Landscape Generator: python-projects/creative/landscape-generator.md
-      - Musical Harmony Visualization: python-projects/creative/musical-harmony.md
-      - Color Palette Generator: python-projects/creative/colour-palette.md
-    - Geospatial & Utility:
-      - Overview: python-projects/geospatial/index.md
-      - GPS Tracker: python-projects/geospatial/gps-tracker.md
+      - Overview: research/index.md
+      - Current Position - Pathak Lab: research/pathak-lab.md
+      - Boise State - DNA Memory: research/boise-state.md
+      - Parker Lab - Calcium Imaging: research/parker-lab.md
+      - Patel Lab - NAADP Signaling: research/patel-lab.md
+      - Sanders Lab - Plant Calcium: research/sanders-lab.md
+      - Sound Science - Conservation: research/sound-science.md
 
   - Python Projects:
       - Overview: python-projects/index.md
@@ -128,6 +106,11 @@ nav:
               - TIRF Simulation: python-projects/scientific/microscopy/tirf-microscope-simulation.md
               - Calcium Simulator: python-projects/scientific/microscopy/calcium-simulator.md
               - FLIPR Analysis: python-projects/scientific/microscopy/flipr-calcium-response-analysis.md
+              - Calcium Computing: python-projects/scientific/microscopy/calcium-signalling-inspired-computing.md
+              - Lightsheet Simulator: python-projects/scientific/microscopy/lightsheet-simulator.md
+              - Particle Analysis: python-projects/scientific/microscopy/particle-analysis.md
+              - Particle Tracking: python-projects/scientific/microscopy/particle-tracking.md
+              - Trajectory Analysis: python-projects/scientific/microscopy/trajectory-analysis.md
 
           - Cell Biology:
               - Overview: python-projects/scientific/cell-biology/index.md
@@ -135,6 +118,7 @@ nav:
               - Cell Segmenter: python-projects/scientific/cell-biology/cell-segmenter.md
               - Cell Curvature: python-projects/scientific/cell-biology/cell-curvature-analyzer.md
               - Biological Simulator: python-projects/scientific/cell-biology/biologicalsimulator.md
+              - Geospatial Segmenter: python-projects/scientific/cell-biology/geospatial-image-segmenter.md
 
       - Creative Projects:
           - Games:
@@ -144,6 +128,9 @@ nav:
               - HexChess JS: python-projects/games/hexchess-js.md
               - Self-Aware Game: python-projects/games/self-aware-game.md
               - Tank Game: python-projects/games/tank-game.md
+              - FLIPR Simulation: python-projects/games/flipr-asimulation-advanced.md
+              - Interference Simulation: python-projects/games/interference-simulation.md
+              - Self-Aware Simulation: python-projects/games/self-aware-simulation.md
 
           - Original Creative:
               - Overview: python-projects/creative/index.md
@@ -159,6 +146,8 @@ nav:
               - Poetry System: python-projects/creative/generative/poetry-system.md
               - Music Generator: python-projects/creative/generative/music-generator.md
               - Organic Growth: python-projects/creative/generative/organic-growth-patterns.md
+              - Creative Genetic Solver: python-projects/creative/generative/creative-genetic-problem-solver.md
+              - Dynamic Art Generator: python-projects/creative/generative/dynamic-art-generator.md
 
       - Geospatial:
           - Overview: python-projects/geospatial/index.md
@@ -166,6 +155,7 @@ nav:
           - PyNav: python-projects/geospatial/pynav.md
           - Shadealator: python-projects/geospatial/shadealator-tnc.md
           - Burn Index: python-projects/geospatial/burn-index.md
+          - Vegetation Classification: python-projects/geospatial/vegetation-classification.md
 
       - AI & Computer Vision:
           - Overview: python-projects/ai/index.md
@@ -185,6 +175,7 @@ nav:
           - VisualPyIDE: python-projects/web/visualpyide.md
           - News Depoliticizer: python-projects/web/news-depoliticizer.md
           - Microview: python-projects/web/microview.md
+          - Web Microview: python-projects/web/web-microview.md
 
   - Publications: publications.md
   - CV: cv.md

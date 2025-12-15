@@ -16,7 +16,7 @@ A Python-based application for analyzing PIEZO1 protein distribution and membran
 
 A Python-based application for analyzing PIEZO1 protein distribution and membrane dynamics using TIRF microscopy data.
 
-![Application Screenshot](screenshot.png)
+<!-- Image not available: Application Screenshot -->
 
 ## Overview
 

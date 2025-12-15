@@ -16,7 +16,7 @@ A real-time audio analysis application with automatic bird species detection, bu
 
 A real-time audio analysis application with automatic bird species detection, built in Python using PyQt5 and integrated with BirdNET.
 
-![Sound Analyzer Screenshot](docs/images/screenshot.png)
+<!-- Image not available: Sound Analyzer Screenshot -->
 
 ## Features
 

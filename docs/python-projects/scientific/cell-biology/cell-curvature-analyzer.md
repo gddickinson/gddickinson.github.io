@@ -16,7 +16,7 @@ A comprehensive GUI application for analyzing the relationship between cell-memb
 
 A comprehensive GUI application for analyzing the relationship between cell-membrane curvature and PIEZO1 protein locations from fluorescence microscope recordings.
 
-![Application Screenshot](docs/images/screenshot.png)
+<!-- Image not available: Application Screenshot -->
 
 ## Features
 

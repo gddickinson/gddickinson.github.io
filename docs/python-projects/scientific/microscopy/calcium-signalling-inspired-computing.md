@@ -18,7 +18,7 @@ This repository contains a collection of computational models inspired by calciu
 
 This repository contains a collection of computational models inspired by calcium signaling dynamics in biological systems. These models demonstrate how principles from cellular calcium dynamics can inform novel computing paradigms with unique capabilities beyond traditional computing approaches.
 
-![CalciumComputing Logo](assets/calcium-computing-logo.png)
+<!-- Image not available: CalciumComputing Logo -->
 
 ## Overview
 
