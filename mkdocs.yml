@@ -99,6 +99,93 @@ nav:
     - Geospatial & Utility:
       - Overview: python-projects/geospatial/index.md
       - GPS Tracker: python-projects/geospatial/gps-tracker.md
+
+  - Python Projects:
+      - Overview: python-projects/index.md
+
+      - FLIKA Plugins:
+          - Overview: python-projects/flika-plugins/index.md
+          - thunderSTORM: python-projects/flika-plugins/thunderstorm.md
+          - SPT Batch Analysis: python-projects/flika-plugins/spt-batch.md
+          - Cell Edge Movement: python-projects/flika-plugins/cell-edge.md
+          - Mask Editor: python-projects/flika-plugins/mask-editor.md
+
+      - Scientific Research:
+          - FLIKA Core & Tools:
+              - Overview: python-projects/scientific/flika-core/index.md
+              - FLIKA Core: python-projects/scientific/flika-core/flika.md
+              - PIEZO1 Tools: python-projects/scientific/flika-core/piezo1-localizationtools.md
+              - Synapse: python-projects/scientific/flika-core/synapse.md
+              - VolumeSlider: python-projects/scientific/flika-core/volumeslider.md
+              - Pathak Lab: python-projects/scientific/flika-core/pathak-lab.md
+              - flika_scripts: python-projects/scientific/flika-core/flika-scripts.md
+              - py-track: python-projects/scientific/flika-core/py-track.md
+
+          - Microscopy:
+              - Overview: python-projects/scientific/microscopy/index.md
+              - Deep Particle Tracking: python-projects/scientific/microscopy/deep-particle-tracking.md
+              - Particle Trajectory Analyzer: python-projects/scientific/microscopy/particle-trajectory-analyzer.md
+              - TIRF Simulation: python-projects/scientific/microscopy/tirf-microscope-simulation.md
+              - Calcium Simulator: python-projects/scientific/microscopy/calcium-simulator.md
+              - FLIPR Analysis: python-projects/scientific/microscopy/flipr-calcium-response-analysis.md
+
+          - Cell Biology:
+              - Overview: python-projects/scientific/cell-biology/index.md
+              - Cell Membrane Dynamics: python-projects/scientific/cell-biology/cell-membrane-dynamics.md
+              - Cell Segmenter: python-projects/scientific/cell-biology/cell-segmenter.md
+              - Cell Curvature: python-projects/scientific/cell-biology/cell-curvature-analyzer.md
+              - Biological Simulator: python-projects/scientific/cell-biology/biologicalsimulator.md
+
+      - Creative Projects:
+          - Games:
+              - Overview: python-projects/games/index.md
+              - LLM RPG: python-projects/games/llm-rpg.md
+              - HexChess Python: python-projects/games/hexchess-python.md
+              - HexChess JS: python-projects/games/hexchess-js.md
+              - Self-Aware Game: python-projects/games/self-aware-game.md
+              - Tank Game: python-projects/games/tank-game.md
+
+          - Original Creative:
+              - Overview: python-projects/creative/index.md
+              - Story Generator: python-projects/creative/story-generator.md
+              - Fractal Music: python-projects/creative/fractal-music.md
+              - Landscape Generator: python-projects/creative/landscape-generator.md
+              - Musical Harmony: python-projects/creative/musical-harmony.md
+              - Color Palette: python-projects/creative/colour-palette.md
+
+          - Generative Systems:
+              - Overview: python-projects/creative/generative/index.md
+              - Evolution Art: python-projects/creative/generative/evolutionart-art-system.md
+              - Poetry System: python-projects/creative/generative/poetry-system.md
+              - Music Generator: python-projects/creative/generative/music-generator.md
+              - Organic Growth: python-projects/creative/generative/organic-growth-patterns.md
+
+      - Geospatial:
+          - Overview: python-projects/geospatial/index.md
+          - GPS Tracker: python-projects/geospatial/gps-tracker.md
+          - PyNav: python-projects/geospatial/pynav.md
+          - Shadealator: python-projects/geospatial/shadealator-tnc.md
+          - Burn Index: python-projects/geospatial/burn-index.md
+
+      - AI & Computer Vision:
+          - Overview: python-projects/ai/index.md
+          - AI Agent: python-projects/ai/ai-agent.md
+          - Neural Super Resolution: python-projects/ai/neural-enhanced-super-resolution.md
+          - Object Detection: python-projects/ai/object-detection-system.md
+
+      - Analysis & Visualization:
+          - Overview: python-projects/analysis/index.md
+          - Bird Sound Analyzer: python-projects/analysis/bird-sound-analyzer.md
+          - Complex Function Viz: python-projects/analysis/comlex-function-visualization.md
+          - Direction Autocorrelation: python-projects/analysis/direction-autocorrelation-analysis.md
+          - Novel Genre Analysis: python-projects/analysis/novel-genre-analysis.md
+
+      - Web & Tools:
+          - Overview: python-projects/web/index.md
+          - VisualPyIDE: python-projects/web/visualpyide.md
+          - News Depoliticizer: python-projects/web/news-depoliticizer.md
+          - Microview: python-projects/web/microview.md
+
   - Publications: publications.md
   - CV: cv.md
 
