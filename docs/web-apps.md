@@ -304,4 +304,12 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/go)
 
+-   **[Hexagonal Chess](https://gddickinson.github.io/hexchess_python/)**
+
+    ---
+
+    A hexagonal chess variant on 217 cells with a Dragon piece, against two computer opponents, playable in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/hexchess_python)
+
 </div>
