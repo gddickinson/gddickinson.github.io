@@ -54,7 +54,7 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     ---
 
-    A firework display with burst patterns, scenes and weather. Click to launch.
+    A firework display with burst patterns, scenes and weather, all running in the browser.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/fireworks)
 
