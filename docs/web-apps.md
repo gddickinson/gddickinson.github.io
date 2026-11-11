@@ -210,6 +210,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/creative-genetic-problem-solver)
 
+-   **[Music Generator](https://gddickinson.github.io/music-generator/)**
+
+    ---
+
+    Algorithmic composition in the browser: musical forms, emotions and fractal melodies, with a piano roll, playback and MIDI download.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/music-generator)
+
 </div>
 
 ## Analysis tools
