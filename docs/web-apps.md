@@ -186,6 +186,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/dynamic-art-generator)
 
+-   **[Fractal Music](https://gddickinson.github.io/fractal_music_generator/)**
+
+    ---
+
+    Melodies sampled from the Mandelbrot set: choose a region, listen, and download the MIDI file.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/fractal_music_generator)
+
 </div>
 
 ## Analysis tools
