@@ -69,6 +69,8 @@ plugins:
 nav:
   - Home: index.md
 
+  - Live Web Apps: web-apps.md
+
   - Research:
       - Overview: research/index.md
       - Current Position - Pathak Lab: research/pathak-lab.md
