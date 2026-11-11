@@ -272,6 +272,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/british-isles-oldest-buildings)
 
+-   **[Recipe Explorer](https://gddickinson.github.io/recipe_explorer/)**
+
+    ---
+
+    Browse and search recipes by ingredient and equipment, scale servings with unit conversion, and build a shopping list.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/recipe_explorer)
+
 </div>
 
 ## Games and earlier web pages
