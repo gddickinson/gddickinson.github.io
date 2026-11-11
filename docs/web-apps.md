@@ -82,6 +82,22 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/rhythmograms)
 
+-   **[Wave Interference](https://gddickinson.github.io/interference_simulation/)**
+
+    ---
+
+    Waves in a ripple tank: slits, point sources, obstacles and standing waves, simulated live in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/interference_simulation)
+
+-   **[Complex Functions](https://gddickinson.github.io/complex-function-visualization/)**
+
+    ---
+
+    Domain colouring and animations of complex functions, computed in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/complex-function-visualization)
+
 </div>
 
 ## Analysis tools
