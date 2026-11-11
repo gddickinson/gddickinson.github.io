@@ -98,6 +98,22 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/complex-function-visualization)
 
+-   **[Tile Filling](https://gddickinson.github.io/tile-filling/)**
+
+    ---
+
+    Twenty-two geometric tiling and space-filling patterns with palettes, effects and kaleidoscope, exported as PNG.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/tile-filling)
+
+-   **[Optical Illusions](https://gddickinson.github.io/optical_illusion_pattern_generator/)**
+
+    ---
+
+    Classic optical illusions and mathematical patterns: 49 patterns from nine generators, drawn in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/optical_illusion_pattern_generator)
+
 </div>
 
 ## Analysis tools
