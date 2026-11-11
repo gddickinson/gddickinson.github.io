@@ -194,6 +194,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/fractal_music_generator)
 
+-   **[Musical Harmony](https://gddickinson.github.io/musical-harmony-visualization/)**
+
+    ---
+
+    Generate chord progressions, see their structure visualised, play them in the browser and download WAV or MIDI.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/musical-harmony-visualization)
+
 </div>
 
 ## Analysis tools
