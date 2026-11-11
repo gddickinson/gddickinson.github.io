@@ -170,6 +170,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/landscape-generator)
 
+-   **[Evolutionary Art](https://gddickinson.github.io/evolutionart-art-system/)**
+
+    ---
+
+    Abstract art bred by genetic algorithms: evolve populations, inspect genomes and export the results.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/evolutionart-art-system)
+
 </div>
 
 ## Analysis tools
@@ -247,5 +255,13 @@ Projects you can use straight from the browser. Each one also runs as a local we
     ---
 
     A tarot card reading web page.
+
+-   **[Go](https://gddickinson.github.io/go/)**
+
+    ---
+
+    Play Go on 9×9, 13×13 or 19×19 against a computer opponent or a friend, with captures, ko and live scoring.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/go)
 
 </div>
