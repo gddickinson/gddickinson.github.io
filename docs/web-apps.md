@@ -122,6 +122,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/organic-growth-patterns)
 
+-   **[Dot Matrix Art](https://gddickinson.github.io/dotMatrix_art/)**
+
+    ---
+
+    Turn your own photo into dot-matrix art with filters and palettes, then save it as PNG or SVG. The photo never leaves your browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/dotMatrix_art)
+
 </div>
 
 ## Analysis tools
