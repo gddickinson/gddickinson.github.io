@@ -74,6 +74,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/self_replicating_automata)
 
+-   **[Rhythmograms](https://gddickinson.github.io/rhythmograms/)**
+
+    ---
+
+    Heinrich Heidersberger's light-trace photographs recreated with four damped pendulums: 35 presets, morphing, PNG and SVG export.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/rhythmograms)
+
 </div>
 
 ## Analysis tools
