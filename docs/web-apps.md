@@ -130,6 +130,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/dotMatrix_art)
 
+-   **[Colour Palette](https://gddickinson.github.io/colour-palette/)**
+
+    ---
+
+    Harmonious colour palettes from colour-theory rules, with hex, RGB and HSL values and JSON, PNG and CSS export.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/colour-palette)
+
 </div>
 
 ## Analysis tools
