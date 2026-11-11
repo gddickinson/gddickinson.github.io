@@ -138,6 +138,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/colour-palette)
 
+-   **[ASCII Art](https://gddickinson.github.io/ascii_art_generator/)**
+
+    ---
+
+    Convert your own image to ASCII art with character sets, inversion and dithering; copy or download it. The image stays in your browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ascii_art_generator)
+
 </div>
 
 ## Analysis tools
