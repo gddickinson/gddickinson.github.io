@@ -34,6 +34,46 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/CALab)
 
+-   **[Candle Flame](https://gddickinson.github.io/candle_flame/)**
+
+    ---
+
+    A real-time particle candle flame in WebGL: wind, flicker, wax colours, blow it out and relight it.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/candle_flame)
+
+-   **[Suminagashi](https://gddickinson.github.io/suminagashi/)**
+
+    ---
+
+    Japanese ink marbling: drop ink, comb and swirl it with five tools and ten palettes, then save the print.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/suminagashi)
+
+-   **[Fireworks](https://gddickinson.github.io/fireworks/)**
+
+    ---
+
+    A firework display with burst patterns, scenes and weather. Click to launch.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/fireworks)
+
+-   **[Kaleidoscope](https://gddickinson.github.io/kaleidoscope/)**
+
+    ---
+
+    A music-reactive kaleidoscope driven by an audio file, the microphone or a built-in demo signal.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/kaleidoscope)
+
+-   **[Self-Replicating Automata](https://gddickinson.github.io/self_replicating_automata/)**
+
+    ---
+
+    Self-reproducing cellular automata after von Neumann: Langton's loop, Brian's Brain, WireWorld and more.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/self_replicating_automata)
+
 </div>
 
 ## Analysis tools
