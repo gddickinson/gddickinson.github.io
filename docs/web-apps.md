@@ -114,6 +114,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/optical_illusion_pattern_generator)
 
+-   **[Organic Growth](https://gddickinson.github.io/organic-growth-patterns/)**
+
+    ---
+
+    Coral, lichen, mycelium and crystal growth as 2D and 3D cellular automata, grown in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/organic-growth-patterns)
+
 </div>
 
 ## Analysis tools
