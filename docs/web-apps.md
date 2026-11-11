@@ -294,7 +294,7 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     ---
 
-    A tarot card reading web page.
+    Tarot readings with animated spreads, a 78-card encyclopedia quoting Waite (1910) and a reading journal.
 
 -   **[Go](https://gddickinson.github.io/go/)**
 
