@@ -234,6 +234,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/microscope-atlas)
 
+-   **[TIRF Simulator](https://gddickinson.github.io/tirf_microscope_simulation/)**
+
+    ---
+
+    Total internal reflection fluorescence in the browser: critical angle, evanescent penetration depth, ray optics and TIRF versus epi images.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/tirf_microscope_simulation)
+
 </div>
 
 ## Explorers and databases
