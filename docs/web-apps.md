@@ -178,6 +178,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/evolutionart-art-system)
 
+-   **[Dynamic Art Generator](https://gddickinson.github.io/dynamic-art-generator/)**
+
+    ---
+
+    Thirteen audio-reactive art plugins driven by an audio file, the microphone or a demo signal.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/dynamic-art-generator)
+
 </div>
 
 ## Analysis tools
