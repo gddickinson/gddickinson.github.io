@@ -146,6 +146,22 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/ascii_art_generator)
 
+-   **[Wireframe Display](https://gddickinson.github.io/wireframe_display/)**
+
+    ---
+
+    3D wireframe shapes projected with matrix transforms: rotate, zoom and explore 25 shapes.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/wireframe_display)
+
+-   **[Wireframe Scenes](https://gddickinson.github.io/wireframeDisplay/)**
+
+    ---
+
+    A 3D wireframe scene viewer with a perspective camera, solids, knots and fractals.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/wireframeDisplay)
+
 </div>
 
 ## Analysis tools
