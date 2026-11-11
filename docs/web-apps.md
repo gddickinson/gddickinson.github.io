@@ -202,6 +202,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/musical-harmony-visualization)
 
+-   **[Genetic Problem Solver](https://gddickinson.github.io/creative-genetic-problem-solver/)**
+
+    ---
+
+    Ten genetic-algorithm demos, from vehicle routing and maze solving to packing, neural networks and reaction-diffusion, evolving live in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/creative-genetic-problem-solver)
+
 </div>
 
 ## Analysis tools
