@@ -162,6 +162,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/wireframeDisplay)
 
+-   **[Landscape Generator](https://gddickinson.github.io/landscape-generator/)**
+
+    ---
+
+    Procedural landscapes with biomes, seasons, rivers, roads and settlements; the same seed gives the same world as the Python.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/landscape-generator)
+
 </div>
 
 ## Analysis tools
