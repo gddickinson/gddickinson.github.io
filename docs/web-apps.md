@@ -288,6 +288,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/plant_taxonomy_db)
 
+-   **[Tea Explorer](https://gddickinson.github.io/tea_explorer/)**
+
+    ---
+
+    Tea varieties, tisanes, brewing methods, companies and growing regions on a world map, with a guide and a brewing timer.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/tea_explorer)
+
 </div>
 
 ## Games and earlier web pages
