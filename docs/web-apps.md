@@ -218,6 +218,22 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/music-generator)
 
+-   **[Circuit Simulator](https://gddickinson.github.io/circuit_simulator/)**
+
+    ---
+
+    Build circuits on a schematic and simulate them live: resistors, capacitors, diodes, LEDs, transistors, switches and AC sources, with an oscilloscope.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/circuit_simulator)
+
+-   **[Floor Plan Designer](https://gddickinson.github.io/floorplan_app/)**
+
+    ---
+
+    Draw walls, rooms, doors, windows and furniture in 2D with a 3D preview; plans load in the desktop app too.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/floorplan_app)
+
 </div>
 
 ## Analysis tools
@@ -281,6 +297,38 @@ Projects you can use straight from the browser. Each one also runs as a local we
     A nine-lesson maths course for biologists with live, interactive versions of each Python example.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/math_course)
+
+-   **[Stellar Anomaly Detector](https://gddickinson.github.io/stellar_anomaly_detector/)**
+
+    ---
+
+    Statistical outliers among 4,112 Gaia DR3 stars around Boyajian's star, with the detection methods explained.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/stellar_anomaly_detector)
+
+-   **[Strava to Garmin](https://gddickinson.github.io/convert_strava_tcx_to_garmin/)**
+
+    ---
+
+    Convert Strava TCX exports for Garmin Connect, in your browser; files never leave your device.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/convert_strava_tcx_to_garmin)
+
+-   **[Calcium-Inspired Computing](https://gddickinson.github.io/calcium_signalling_inspired_computing/)**
+
+    ---
+
+    Six computing models inspired by calcium signalling: puffs, waves, thresholds, recruitment and stores, running live.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/calcium_signalling_inspired_computing)
+
+-   **[Biological Simulator](https://gddickinson.github.io/biologicalSimulator/)**
+
+    ---
+
+    4D (x, y, z, t) cell simulations with orthogonal slices, time playback and TIFF export.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/biologicalSimulator)
 
 </div>
 
@@ -383,5 +431,13 @@ Projects you can use straight from the browser. Each one also runs as a local we
     A character who slowly realises they are inside a game, with a snake game to discover, simulated in the browser.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/self-aware_game)
+
+-   **[Self-Aware Simulation](https://gddickinson.github.io/self-aware_simulation/)**
+
+    ---
+
+    A universe whose characters slowly realise they live in a simulation, with deity powers and seeded runs.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/self-aware_simulation)
 
 </div>
