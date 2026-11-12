@@ -234,6 +234,30 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/floorplan_app)
 
+-   **[PIEZO1 Dynamic Structural Simulator](https://gddickinson.github.io/piezo1-simulator/)**
+
+    ---
+
+    Interactive, physics-driven 3D simulator of the PIEZO1 mechanosensitive ion channel: elastic-network gating prediction, membrane-dome measurement, and…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/piezo1-simulator)
+
+-   **[Poetry System](https://gddickinson.github.io/poetry_system/)**
+
+    ---
+
+    A Python-based system for generating and analyzing poetry using natural language processing and computational creativity techniques
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/poetry_system)
+
+-   **[Music Production Platform](https://gddickinson.github.io/musicPlatform/)**
+
+    ---
+
+    Sequencer, synthesiser and mixer for composing in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/musicPlatform)
+
 </div>
 
 ## Analysis tools
@@ -329,6 +353,198 @@ Projects you can use straight from the browser. Each one also runs as a local we
     4D (x, y, z, t) cell simulations with orthogonal slices, time playback and TIFF export.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/biologicalSimulator)
+
+-   **[Synapse3D](https://gddickinson.github.io/Synapse/)**
+
+    ---
+
+    3D cluster analysis for superresolution microscopy data
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Synapse)
+
+-   **[MicroView](https://gddickinson.github.io/microview/)**
+
+    ---
+
+    Open and inspect microscopy stacks in the browser: frames, projections, contrast and measurements.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/microview)
+
+-   **[TTools & Shade-a-lator](https://gddickinson.github.io/Shadealator_TNC/)**
+
+    ---
+
+    Stream-shade modelling from The Nature Conservancy toolset: sample transects and compute riparian shade.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Shadealator_TNC)
+
+-   **[Particle Tracking Suite](https://gddickinson.github.io/particle-tracker/)**
+
+    ---
+
+    An extensible application implementing cutting-edge particle detection, tracking, classification, and analysis methods for fluorescence microscopy
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/particle-tracker)
+
+-   **[Cell Edge Movement Analysis Pipeline](https://gddickinson.github.io/cell_edge_analysis/)**
+
+    ---
+
+    Python - PyQt6 project to analyse fluorescence along a cell edge
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_edge_analysis)
+
+-   **[flika scripts](https://gddickinson.github.io/flika_scripts/)**
+
+    ---
+
+    Catalogue and in-browser demos of the analysis scripts run inside FLIKA for calcium puffs and particle tracks.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/flika_scripts)
+
+-   **[Advanced TIFF Stack Viewer](https://gddickinson.github.io/overlay/)**
+
+    ---
+
+    PyQt6-based application for viewing, analyzing, and processing microscopy TIFF stacks
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/overlay)
+
+-   **[Advanced Particle Tracking with NanoPyx](https://gddickinson.github.io/particle_tracking/)**
+
+    ---
+
+    A Python application for analyzing fluorescently-tagged proteins with mixed mobility behaviors in microscopy data
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/particle_tracking)
+
+-   **[Sound Analyzer with BirdNET Integration](https://gddickinson.github.io/bird_sound_analyzer/)**
+
+    ---
+
+    A real-time sound analysis application with bird species identification capabilities, built in Python using PyQt5 and integrating with BirdNET.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/bird_sound_analyzer)
+
+-   **[Cell Segmentation Tool](https://gddickinson.github.io/cell-segmenter/)**
+
+    ---
+
+    Python - PyQt6 segmentation tool for tiff stacks
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell-segmenter)
+
+-   **[Cell Edge Detection System](https://gddickinson.github.io/cell_edge_detector/)**
+
+    ---
+
+    The Cell Edge Detection System uses a U-Net architecture to detect cell edges in TIRF (Total Internal Reflection Fluorescence) and DIC (Differential Interference…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_edge_detector)
+
+-   **[Project Combiner](https://gddickinson.github.io/combine_project/)**
+
+    ---
+
+    Combines all files in a Python project into a single file for easy sharing, and creates a separate file with the project structure.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/combine_project)
+
+-   **[Depth Estimation & 3D Body Tracking](https://gddickinson.github.io/depthEstimation/)**
+
+    ---
+
+    This project provides a high-performance interface for the Kinect Xbox 360 camera, allowing easy access to both RGB and depth data streams in Python.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/depthEstimation)
+
+-   **[DiPer Clone](https://gddickinson.github.io/diper_clone/)**
+
+    ---
+
+    A Python implementation of the DiPer analysis toolset for directional persistence analysis
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/diper_clone)
+
+-   **[Neural Enhanced Super-Resolution (NESR)](https://gddickinson.github.io/neural_enhanced_super_resolution/)**
+
+    ---
+
+    A Python project for iterative image super-resolution using multiple AI models.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/neural_enhanced_super_resolution)
+
+-   **[News Depoliticizer](https://gddickinson.github.io/news_depoliticizer/)**
+
+    ---
+
+    A news aggregator that removes political bias from current events.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/news_depoliticizer)
+
+-   **[Literary Genre Evolution Analyzer](https://gddickinson.github.io/novel-genre-analysis/)**
+
+    ---
+
+    Phylogenetic analysis of novel genres and writing guides.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/novel-genre-analysis)
+
+-   **[Object Detection and Tracking System](https://gddickinson.github.io/object_detection_system/)**
+
+    ---
+
+    A comprehensive computer vision application for detecting, segmenting, and tracking objects in images and videos, with optional LLM integration for enhanced object…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/object_detection_system)
+
+-   **[faceView](https://gddickinson.github.io/faceView/)**
+
+    ---
+
+    Multimodal face/voice/chat GUI for interacting with Claude and Claude Code (PySide6 + FastAPI + MCP)
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/faceView)
+
+-   **[Deep Particle Tracker](https://gddickinson.github.io/deep_particle_tracking/)**
+
+    ---
+
+    A Python application for deep learning-based particle tracking in microscopy images.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/deep_particle_tracking)
+
+-   **[Receptor Finder](https://gddickinson.github.io/receptor_finder/)**
+
+    ---
+
+    A computational toolkit for discovering candidate InsP₃ and cADPR receptors in plant genomes through convergent evolution analysis.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/receptor_finder)
+
+-   **[Particle Tracking Application](https://gddickinson.github.io/trajectory_analysis/)**
+
+    ---
+
+    A comprehensive, modular application for analyzing particle trajectories from TIRF microscopy recordings and other single-molecule imaging data.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/trajectory_analysis)
+
+-   **[VolumeSlider Plugin for Flika](https://gddickinson.github.io/VolumeSlider/)**
+
+    ---
+
+    Displays 3D data obtained from lightsheet microscopes
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/VolumeSlider)
+
+-   **[Geospatial Image Segmentation Tool](https://gddickinson.github.io/geospatial_image_segmenter/)**
+
+    ---
+
+    A Python-based desktop application for segmenting and classifying geospatial imagery using machine learning.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/geospatial_image_segmenter)
 
 </div>
 
@@ -439,5 +655,75 @@ Projects you can use straight from the browser. Each one also runs as a local we
     A universe whose characters slowly realise they live in a simulation, with deity powers and seeded runs.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/self-aware_simulation)
+
+</div>
+
+## Tools and learning
+
+<div class="grid cards" markdown>
+
+-   **[OrgChem Studio](https://gddickinson.github.io/organic_chemistry_tutor/)**
+
+    ---
+
+    Lessons, 613 molecules with 2D/3D viewers, reactions with curly-arrow mechanisms, a SMILES lab and quizzes.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/organic_chemistry_tutor)
+
+-   **[Embodied AI Agent](https://gddickinson.github.io/ai_agent/)**
+
+    ---
+
+    An extensible, modular framework for creating embodied AI agents that can interact with the world through various sensors and actuators.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ai_agent)
+
+-   **[GPS Tracker](https://gddickinson.github.io/gps-tracker/)**
+
+    ---
+
+    Load GPS tracks and explore them on a map with speed, elevation and stats.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/gps-tracker)
+
+-   **[Language Learning Pronunciation Tool](https://gddickinson.github.io/language_learning_tool/)**
+
+    ---
+
+    A modular Python application for learning foreign language pronunciation through audio recording, waveform visualization, and AI-powered comparison using Dynamic Time…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/language_learning_tool)
+
+-   **[PyNav - Comprehensive GPS Navigation Software](https://gddickinson.github.io/pyNav/)**
+
+    ---
+
+    PyQt6 GPS navigation desktop app: live GPS tracking (serial / iPhone), route planning, offline OSM maps and points of interest
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/pyNav)
+
+-   **[🚲 Cycle Routes](https://gddickinson.github.io/cycle-routes/)**
+
+    ---
+
+    Low-stress, fun bike rides and walks generated automatically from OpenStreetMap and other open data, rated for safety, traffic, hills and scenery, for desktop, phone…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cycle-routes)
+
+-   **[Vesper](https://gddickinson.github.io/Vesper/)**
+
+    ---
+
+    Breath-paced relaxation: 22 patterns, guided programs and live-synthesised nature sounds.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Vesper)
+
+-   **[VisualPyIDE](https://gddickinson.github.io/VisualPyIDE/)**
+
+    ---
+
+    Code editor, template browser and an Image Lab of 17 image operations; nothing is executed.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/VisualPyIDE)
 
 </div>
