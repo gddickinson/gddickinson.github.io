@@ -280,6 +280,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/recipe_explorer)
 
+-   **[Plant Taxonomy](https://gddickinson.github.io/plant_taxonomy_db/)**
+
+    ---
+
+    Browse the conifers (order Pinales, 348 taxa) from ITIS: taxonomy tree, search and taxon pages.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/plant_taxonomy_db)
+
 </div>
 
 ## Games and earlier web pages
