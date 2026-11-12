@@ -650,6 +650,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/web_microview)
 
+-   **[GESTALT — Grown Spacecraft & Habitats](https://gddickinson.github.io/organic_spacecraft/)**
+
+    ---
+
+    GESTALT — a conceptual design program for living, grown-from-a-seed spacecraft & habitats: ten cross-linked documents + a zero-dependency Python viewer.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/organic_spacecraft)
+
 </div>
 
 ## Explorers and databases
