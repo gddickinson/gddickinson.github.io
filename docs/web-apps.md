@@ -376,4 +376,12 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/story-generator)
 
+-   **[Self-Aware Game](https://gddickinson.github.io/self-aware_game/)**
+
+    ---
+
+    A character who slowly realises they are inside a game, with a snake game to discover, simulated in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/self-aware_game)
+
 </div>
