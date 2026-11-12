@@ -304,7 +304,7 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     ---
 
-    Sleeping loops and more.
+    A WebAudio mixer for 88 ambient loops: per-loop volume, mute and solo, a sleep timer with fade-out, saved and shareable mixes, and a live visualiser.
 
 -   **[Tarot](https://gddickinson.github.io/tarot/)**
 
