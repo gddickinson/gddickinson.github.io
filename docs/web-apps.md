@@ -210,6 +210,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/creative-genetic-problem-solver)
 
+-   **[Music Generator](https://gddickinson.github.io/music-generator/)**
+
+    ---
+
+    Algorithmic composition in the browser: musical forms, keys, emotions and fractal melodies, with a piano roll, playback and MIDI download.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/music-generator)
+
 </div>
 
 ## Analysis tools
@@ -265,6 +273,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
     Seeded 3D cell and tissue volumes as a light-sheet microscope would record them: orthogonal slices, z-stack and projections.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/lightsheet_simulator)
+
+-   **[Maths for Biologists](https://gddickinson.github.io/math_course/)**
+
+    ---
+
+    A nine-lesson maths course for biologists with live, interactive versions of each Python example.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/math_course)
 
 </div>
 
@@ -351,5 +367,13 @@ Projects you can use straight from the browser. Each one also runs as a local we
     A hexagonal chess variant on 217 cells with a Dragon piece, against two computer opponents, playable in the browser.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/hexchess_python)
+
+-   **[Story Generator](https://gddickinson.github.io/story-generator/)**
+
+    ---
+
+    Procedurally generated branching stories with worlds, characters and relationships: play them, map the branches and share a seed.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/story-generator)
 
 </div>
