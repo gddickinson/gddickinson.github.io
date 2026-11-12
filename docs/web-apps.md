@@ -250,6 +250,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/tirf_microscope_simulation)
 
+-   **[Calcium Simulator](https://gddickinson.github.io/calcium_simulator/)**
+
+    ---
+
+    Intracellular Ca2+ signals from stochastic IP3 receptor channels with diffusion, buffers and pumps, simulated in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/calcium_simulator)
+
 </div>
 
 ## Explorers and databases
