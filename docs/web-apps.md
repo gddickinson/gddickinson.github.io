@@ -258,6 +258,22 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/musicPlatform)
 
+-   **[Procedural Building Generator](https://gddickinson.github.io/building-gen/)**
+
+    ---
+
+    A Python package that procedurally generates realistic 3D buildings with full architectural detail -- interiors, exteriors, room layouts, windows, doors, stairs, and more.…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/building-gen)
+
+-   **[PIEZO1 Membrane Dynamics Tracker](https://gddickinson.github.io/cell_membrane_dynamics/)**
+
+    ---
+
+    A Python-based application for analyzing PIEZO1 protein distribution and membrane dynamics using TIRF microscopy data.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_membrane_dynamics)
+
 </div>
 
 ## Analysis tools
@@ -546,6 +562,94 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/geospatial_image_segmenter)
 
+-   **[ParticleTracker](https://gddickinson.github.io/ParticleTracker/)**
+
+    ---
+
+    Particle detection, linking and MSD classification on fluorescence movies, with a simulated demo.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ParticleTracker)
+
+-   **[Calcium Channel Analyzer](https://gddickinson.github.io/calcium_channel_analyzer/)**
+
+    ---
+
+    Bioinformatics tools for calcium channel research.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/calcium_channel_analyzer)
+
+-   **[Calcium Phylogenomics](https://gddickinson.github.io/calcium_phylogenomics/)**
+
+    ---
+
+    Gene-family expansion, birth-death rates and trait correlation on your own ortholog counts (demo data illustrative).
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/calcium_phylogenomics)
+
+-   **[Cell Curvature Analyzer](https://gddickinson.github.io/cell_curvature_analyzer/)**
+
+    ---
+
+    GUI application for analyzing the relationship between cell-membrane curvature and PIEZO1 protein locations from fluorescence microscope recordings
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_curvature_analyzer)
+
+-   **[cellscope_analysis](https://gddickinson.github.io/cellscope_analysis/)**
+
+    ---
+
+    Viewer and analysis workbench for CellScope results - inspect tracked cells, quantify shape, motility and edge dynamics, compare treatments across recordings, and export tidy…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cellscope_analysis)
+
+-   **[ParticleAnalysis: A Python Tool for Single-Particle Tracking](https://gddickinson.github.io/particle_analysis/)**
+
+    ---
+
+    Detect and track particles in microscope recordings
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/particle_analysis)
+
+-   **[PIEZO1-HaloTag Analysis Pipeline](https://gddickinson.github.io/pathak_lab/)**
+
+    ---
+
+    Python code created for the Pathak lab to help analyze TIRF recordings of PIEZO1.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/pathak_lab)
+
+-   **[PIEZO1 DECODE-MAGIK Tracker](https://gddickinson.github.io/piezo1_decode_magik/)**
+
+    ---
+
+    Modular pipeline combining DECODE localization, MAGIK tracking, and ROI-based calcium analysis
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/piezo1_decode_magik)
+
+-   **[TextView](https://gddickinson.github.io/textview/)**
+
+    ---
+
+    AI-first PyQt6 file viewer with workspace RAG, multimodal chat, and an agent that can teach the app new file formats.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/textview)
+
+-   **[ThunderSTORM Python](https://gddickinson.github.io/thunderstorm_python/)**
+
+    ---
+
+    A Python implementation of thunderSTORM for Single Molecule Localization Microscopy (SMLM) data analysis
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/thunderstorm_python)
+
+-   **[Web MicroView](https://gddickinson.github.io/web_microview/)**
+
+    ---
+
+    Browser microscope image viewer with channels, contrast and projections.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/web_microview)
+
 </div>
 
 ## Explorers and databases
@@ -725,5 +829,51 @@ Projects you can use straight from the browser. Each one also runs as a local we
     Code editor, template browser and an Image Lab of 17 image operations; nothing is executed.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/VisualPyIDE)
+
+</div>
+
+## Research dashboards
+
+<div class="grid cards" markdown>
+
+-   **[Calcium Channel Gene Census](https://gddickinson.github.io/calcium_channel_genes/)**
+
+    ---
+
+    Census, classification and phylogeny of calcium channels: read-only dashboard of the committed tables and headline numbers.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/calcium_channel_genes)
+
+-   **[Ion Channel Gene Census](https://gddickinson.github.io/ion_channel_genes/)**
+
+    ---
+
+    Census, classification and phylogeny of ion channels across genomes: read-only dashboard of the committed results.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ion_channel_genes)
+
+-   **[IP3 Receptor Gene Census](https://gddickinson.github.io/ip3r_genes/)**
+
+    ---
+
+    The ITPR / IP3-receptor family across eukaryotes: claims, genome range, family tree and selection, from committed tables.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ip3r_genes)
+
+-   **[NAADP Binder Gene Census](https://gddickinson.github.io/naadp_binder_genes/)**
+
+    ---
+
+    Census of NAADP-binding proteins (JPT1, LSM12): benchmark, baseline and literature audit from committed tables.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/naadp_binder_genes)
+
+-   **[Two-Pore Channel Gene Census](https://gddickinson.github.io/naadpr_genes/)**
+
+    ---
+
+    Census of the two-pore channels (TPCN1/2/3): status, benchmark, baseline and findings from committed tables.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/naadpr_genes)
 
 </div>
