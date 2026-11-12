@@ -258,6 +258,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/calcium_simulator)
 
+-   **[Light-Sheet Simulator](https://gddickinson.github.io/lightsheet_simulator/)**
+
+    ---
+
+    Seeded 3D cell and tissue volumes as a light-sheet microscope would record them: orthogonal slices, z-stack and projections.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/lightsheet_simulator)
+
 </div>
 
 ## Explorers and databases
