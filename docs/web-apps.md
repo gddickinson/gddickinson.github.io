@@ -274,6 +274,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_membrane_dynamics)
 
+-   **[IP3R Structural Simulator](https://gddickinson.github.io/ip3r-simulator/)**
+
+    ---
+
+    Interactive, physics-driven 3D simulator of the IP3 receptor: C4 elastic-network modes, De Young-Keizer gating and Ca2+ dynamics, and independent re-derivation of the…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ip3r-simulator)
+
 </div>
 
 ## Analysis tools
@@ -673,6 +681,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
     Track cells across frames with the Hungarian tracker, classify cell state and measure shape and motion, on a synthetic demo or your own masks.npz.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/cellscope)
+
+-   **[FLIKA Plugins](https://gddickinson.github.io/flika_plugins/)**
+
+    ---
+
+    Catalogue of FLIKA plugins with in-browser demos of their analyses.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/flika_plugins)
 
 </div>
 
