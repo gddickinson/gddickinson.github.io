@@ -666,6 +666,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_edge_analysis_individual_scripts)
 
+-   **[CellScope](https://gddickinson.github.io/cellscope/)**
+
+    ---
+
+    Track cells across frames with the Hungarian tracker, classify cell state and measure shape and motion, on a synthetic demo or your own masks.npz.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cellscope)
+
 </div>
 
 ## Explorers and databases
