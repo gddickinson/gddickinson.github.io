@@ -698,6 +698,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/flika_plugins)
 
+-   **[Ca²⁺ Signature Analyzer](https://gddickinson.github.io/ca_signature_analyzer/)**
+
+    ---
+
+    A Python toolkit for analyzing plant calcium signaling dynamics using information theory and biophysical modeling
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ca_signature_analyzer)
+
 </div>
 
 ## Explorers and databases
