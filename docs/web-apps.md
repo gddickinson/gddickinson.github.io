@@ -282,6 +282,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/ip3r-simulator)
 
+-   **[FaceForge](https://gddickinson.github.io/FaceForge/)**
+
+    ---
+
+    FACS facial expressions, 126 exercises with joint and muscle playback, a 923-structure anatomy browser and quizzes.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/FaceForge)
+
 </div>
 
 ## Analysis tools
@@ -799,6 +807,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
     A universe whose characters slowly realise they live in a simulation, with deity powers and seeded runs.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/self-aware_simulation)
+
+-   **[Autonomous World](https://gddickinson.github.io/autonomous_world/)**
+
+    ---
+
+    A living medieval open world whose villagers follow their own needs and schedules.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/autonomous_world)
 
 </div>
 
