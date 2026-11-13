@@ -816,6 +816,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/autonomous_world)
 
+-   **[LLM RPG](https://gddickinson.github.io/llm_RPG/)**
+
+    ---
+
+    A D&D-style role-playing game with characterful NPCs, playable in the browser.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/llm_RPG)
+
 </div>
 
 ## Tools and learning
