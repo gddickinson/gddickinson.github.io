@@ -658,6 +658,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/organic_spacecraft)
 
+-   **[Cell Edge Movement Analysis Pipeline](https://gddickinson.github.io/cell_edge_analysis_individual_scripts/)**
+
+    ---
+
+    Python pipeline for analyzing PIEZO1 protein localization and cell edge dynamics using fluorescence microscopy data.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/cell_edge_analysis_individual_scripts)
+
 </div>
 
 ## Explorers and databases
