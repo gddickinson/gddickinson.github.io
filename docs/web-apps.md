@@ -950,6 +950,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/piezo1_research_manuals)
 
+-   **[Code Breaker](https://gddickinson.github.io/code_breaker/)**
+
+    ---
+
+    Local web app for learning, making and breaking codes: 76 cipher systems, a cracking workbench, unsolved-cipher case files, scripts and glyphs, an OCR lens and signal decoders,…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/code_breaker)
+
 </div>
 
 ## Research dashboards
