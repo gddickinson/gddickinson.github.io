@@ -290,22 +290,6 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/FaceForge)
 
--   **[Sentinel-2 Burn Area Analysis](https://gddickinson.github.io/burn_index/)**
-
-    ---
-
-    Google Earth Engine project to detect burned vegetation
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/burn_index)
-
--   **[ROS Robot Shell Scripts](https://gddickinson.github.io/shell_scripts/)**
-
-    ---
-
-    Shell scripts for ROS robot setup - networking environment variables, IP detection, roscore startup, XV-11 lidar and UVC camera helpers, plus an OpenCV install script.
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/shell_scripts)
-
 </div>
 
 ## Analysis tools
@@ -722,69 +706,13 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/ca_signature_analyzer)
 
--   **[AR HUD - Augmented Reality Heads-Up Display](https://gddickinson.github.io/ARHUD/)**
+-   **[Sentinel-2 Burn Area Analysis](https://gddickinson.github.io/burn_index/)**
 
     ---
 
-    A sci-fi inspired AR app that overlays real-time contextual information on the camera view, including horizon lines, compass directions, nearby points of interest, and more.
+    Google Earth Engine project to detect burned vegetation
 
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ARHUD)
-
--   **[CameraApp with AR](https://gddickinson.github.io/CameraApp/)**
-
-    ---
-
-    An iOS camera and AR application built with Swift, AVFoundation, and ARKit.
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/CameraApp)
-
--   **[RoomScanner - LiDAR 3D Room Scanning App](https://gddickinson.github.io/roomScanner/)**
-
-    ---
-
-    A native iOS app for scanning rooms using iPhone's LiDAR sensor and exporting 3D data for Python analysis.
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/roomScanner)
-
--   **[Bioimaging and Analysis Software Manuals](https://gddickinson.github.io/piezo1_research_manuals/)**
-
-    ---
-
-    A collection of manuals for the software tools used in mechanosensitive ion channel research, single-molecule imaging, and cell biology
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/piezo1_research_manuals)
-
--   **[Matlab_code](https://gddickinson.github.io/Matlab_code/)**
-
-    ---
-
-    Random MATLAB and OCTAVE code
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Matlab_code)
-
--   **[Arduino robot sketches](https://gddickinson.github.io/Arduino/)**
-
-    ---
-
-    Arduino sketches for mobile robots - serial control, DC motor and servo drivers, LSM303 compass calibration, HC-SR04 ultrasonic sensor arrays, wheel-speed encoders, and a…
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Arduino)
-
--   **[robot_code](https://gddickinson.github.io/robot_code/)**
-
-    ---
-
-    arduino ros code
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/robot_code)
-
--   **[Kinect Xbox 360 Camera Interface](https://gddickinson.github.io/kinect_interface/)**
-
-    ---
-
-    Access to RGB and depth data stream of kinetc XBOX360
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/kinect_interface)
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/burn_index)
 
 </div>
 
@@ -920,6 +848,14 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/table_games)
 
+-   **[Building Escape (Unreal Engine)](https://gddickinson.github.io/03_BuildingEscape/)**
+
+    ---
+
+    Unreal Engine 4 C++ course project - a room-escape level with physics-based door triggers (OpenDoor) and object grabbing (Grabber).
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/03_BuildingEscape)
+
 </div>
 
 ## Tools and learning
@@ -990,14 +926,6 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/VisualPyIDE)
 
--   **[my-first-blog_old](https://gddickinson.github.io/my-first-blog_old/)**
-
-    ---
-
-    Earlier copy of the Django Girls tutorial blog, superseded by my-first-blog.
-
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/my-first-blog_old)
-
 -   **[George's Blog](https://gddickinson.github.io/my-first-blog/)**
 
     ---
@@ -1006,21 +934,21 @@ Projects you can use straight from the browser. Each one also runs as a local we
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/my-first-blog)
 
--   **[R_code](https://gddickinson.github.io/R_code/)**
+-   **[George's Blog (earlier copy)](https://gddickinson.github.io/my-first-blog_old/)**
 
     ---
 
-    Assorted R scripts and notebooks - DataCamp and edX coursework, qPCR analysis, calcium-puff data, and Sound Science conservation work.
+    Earlier copy of the Django Girls tutorial blog, superseded by my-first-blog.
 
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/R_code)
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/my-first-blog_old)
 
--   **[Building Escape](https://gddickinson.github.io/03_BuildingEscape/)**
+-   **[Bioimaging and Analysis Software Manuals](https://gddickinson.github.io/piezo1_research_manuals/)**
 
     ---
 
-    Unreal Engine 4 C++ course project - a room-escape level with physics-based door triggers (OpenDoor) and object grabbing (Grabber).
+    A collection of manuals for the software tools used in mechanosensitive ion channel research, single-molecule imaging, and cell biology
 
-    [:octicons-mark-github-16: Source](https://github.com/gddickinson/03_BuildingEscape)
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/piezo1_research_manuals)
 
 </div>
 
@@ -1067,5 +995,83 @@ Projects you can use straight from the browser. Each one also runs as a local we
     Census of the two-pore channels (TPCN1/2/3): status, benchmark, baseline and findings from committed tables.
 
     [:octicons-mark-github-16: Source](https://github.com/gddickinson/naadpr_genes)
+
+</div>
+
+## Robotics, apps and code showcases
+
+<div class="grid cards" markdown>
+
+-   **[AR HUD - Augmented Reality Heads-Up Display](https://gddickinson.github.io/ARHUD/)**
+
+    ---
+
+    A sci-fi inspired AR app that overlays real-time contextual information on the camera view, including horizon lines, compass directions, nearby points of interest, and more.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/ARHUD)
+
+-   **[CameraApp with AR](https://gddickinson.github.io/CameraApp/)**
+
+    ---
+
+    An iOS camera and AR application built with Swift, AVFoundation, and ARKit.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/CameraApp)
+
+-   **[RoomScanner - LiDAR 3D Room Scanning App](https://gddickinson.github.io/roomScanner/)**
+
+    ---
+
+    A native iOS app for scanning rooms using iPhone's LiDAR sensor and exporting 3D data for Python analysis.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/roomScanner)
+
+-   **[MATLAB code](https://gddickinson.github.io/Matlab_code/)**
+
+    ---
+
+    Random MATLAB and OCTAVE code
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Matlab_code)
+
+-   **[R code](https://gddickinson.github.io/R_code/)**
+
+    ---
+
+    Assorted R scripts and notebooks - DataCamp and edX coursework, qPCR analysis, calcium-puff data, and Sound Science conservation work.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/R_code)
+
+-   **[Arduino robot sketches](https://gddickinson.github.io/Arduino/)**
+
+    ---
+
+    Arduino sketches for mobile robots - serial control, DC motor and servo drivers, LSM303 compass calibration, HC-SR04 ultrasonic sensor arrays, wheel-speed encoders, and a…
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/Arduino)
+
+-   **[Robot code (ROS)](https://gddickinson.github.io/robot_code/)**
+
+    ---
+
+    arduino ros code
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/robot_code)
+
+-   **[ROS Robot Shell Scripts](https://gddickinson.github.io/shell_scripts/)**
+
+    ---
+
+    Shell scripts for ROS robot setup - networking environment variables, IP detection, roscore startup, XV-11 lidar and UVC camera helpers, plus an OpenCV install script.
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/shell_scripts)
+
+-   **[Kinect Xbox 360 Camera Interface](https://gddickinson.github.io/kinect_interface/)**
+
+    ---
+
+    Access to RGB and depth data stream of kinetc XBOX360
+
+    [:octicons-mark-github-16: Source](https://github.com/gddickinson/kinect_interface)
 
 </div>
